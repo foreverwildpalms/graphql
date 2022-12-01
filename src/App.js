@@ -1,6 +1,12 @@
+import Tasks from "./components/Tasks";
+import Form from "./components/Form";
+
 function App() {
   return (
-    <div>Start</div>
+      <div className="container py-4 px-8">
+        <Form />
+        <Tasks />
+      </div>
   );
 }
 
