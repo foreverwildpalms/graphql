@@ -5,3 +5,4 @@ Study App
 - React
 - Apollo GraphQL
 - Mock server with json-graphql-server
+- Styles with Tailwind
